@@ -7,7 +7,7 @@ app:
   # scenario. If the value is set to an empty string ("") the application
   # is not deployed.
   # KLP Buid ID
-  version: "2f11194a-8c3f-4eb2-9312-a0c9c7653848"
+  version: "8041e961-35cf-47fb-8458-a275a9a8f75c"
   
   # Set the Maven coordinates of the Maven artifact to deploy for the 
   # "Deploy, and run" scenario.
